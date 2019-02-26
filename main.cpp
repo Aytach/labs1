@@ -15,6 +15,7 @@ int main()
 
     cout<<"Введено: "<<a<<"  "<<b<<endl;
     cout<<"Сумма: "<<a + b<<endl;
+    cout<<"Разность: "<<a - b<<endl;
 
     return 0;
 }
