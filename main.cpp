@@ -14,6 +14,7 @@ int main()
     cin>>b;
 
     cout<<"¬ведено: "<<a<<"  "<<b<<endl;
+    cout<<"—умма: "<<a + b<<endl;
 
     return 0;
 }
